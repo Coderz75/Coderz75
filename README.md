@@ -10,15 +10,15 @@ I go by the pronouns: He/Him
 
 I currently know Html (my main), scratch, python, css, javascript (my first programming language), java - in the order of how much I know about them
 
-I'm on replit, scrath, and discord!
+I'm on replit, scratch, and discord!
 
 Replit Acounts:
 
-  https://replit.com/@nsyed_nha/ - main
+    https://replit.com/@nsyed_nha/ - main
   
-  https://replit.com/@nuaymsyed - alternate
+    https://replit.com/@nuaymsyed - alternate
   
-  https://replit.com/@nuaymsyed1 - school
+    https://replit.com/@nuaymsyed1 - school
   
 Scratch: https://scratch.mit.edu/users/cwknuaym16920/
 
