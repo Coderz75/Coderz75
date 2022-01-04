@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 HELLO!
 I'm Coderz75
 Despite the plural z, I am one person
