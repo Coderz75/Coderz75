@@ -10,9 +10,9 @@ Despite the plural z, I am one person
 
 I go by the pronouns: He/Him
 
-I currently know Html (my main), scratch, python, css, javascript (my first programming language), java - in the order of how much I know about them
+I currently know Html (my main), c++, c#, scratch, python, css, javascript (my first programming language), java - in the order of how much I know about them
 
-I'm currently 12, and i hae been coding since i was 8 :)
+I have been coding since I was 8 :)
 
 I'm on replit, scratch, and discord!
 
