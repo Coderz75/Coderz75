@@ -12,8 +12,8 @@ I go by the pronouns: He/Him
 
 I currently know, c++, c#, Html, scratch, python, css, javascript (my first programming language), java - in the order of how much I know about them
 
-<img src="cpp.jpg" alt="cpp" width="200"/>
-<img src="html.png" alt="cpp" width="200"/>
+<img src="cpp.jpg" alt="cpp" width="50"/>
+<img src="html.png" alt="cpp" width="50"/>
 
 I have been coding since I was 8 :)
 
