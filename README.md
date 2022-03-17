@@ -11,7 +11,10 @@ Despite the plural z, I am one person
 I go by the pronouns: He/Him
 
 I currently know, c++, c#, Html, scratch, python, css, javascript (my first programming language), java - in the order of how much I know about them
+
+![C++](cpp.jpg)
 ![HTML](html.png)
+
 I have been coding since I was 8 :)
 
 I'm on replit, scratch, and discord!
