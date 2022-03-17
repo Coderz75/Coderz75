@@ -13,7 +13,7 @@ I go by the pronouns: He/Him
 I currently know, c++, c#, Html, scratch, python, css, javascript (my first programming language), java - in the order of how much I know about them
 
 <img src="cpp.jpg" alt="cpp" width="200"/>
-![HTML](html.png)
+<img src="html.png" alt="cpp" width="200"/>
 
 I have been coding since I was 8 :)
 
