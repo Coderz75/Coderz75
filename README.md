@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-      "If you wake up misrable in the morning, be thankfull that you have one" - sombody (with a few edits by Coderz75)
+      "If you wake up misrable in the morning, be thankfull that you have one" - somebody (with a few edits by Coderz75)
 
 HELLO!
 
