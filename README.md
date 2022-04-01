@@ -38,7 +38,7 @@ Discord: Nuaym #5039
 
 Email: scienceboy75@gmail.com
 
-###Featured projects:
+### Featured projects:
 
 [![AUL](https://github-readme-stats.vercel.app/api/pin/?username=Coderz75&repo=Slackerz-Compiler&theme=radical)](https://github.com/Coderz75/Slackerz-Compiler)
 [![AUL](https://github-readme-stats.vercel.app/api/pin/?username=Coderz75&repo=Note-Taker&theme=radical)](https://github.com/Coderz75/Note-Taker)
