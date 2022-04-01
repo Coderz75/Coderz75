@@ -14,6 +14,10 @@ I currently know, c++, c#, Html, scratch, python, javascript (my first programmi
 
 <img src="cpp.jpg" alt="cpp" height="50"/>                     <img src="c-s.jpeg" alt="c#" height="50"/>                     <img src="html.png" alt="html" height="50"/>                     <img src="scratch.jpg" alt="Scratch" height="50"/>                     <img src="Python.png" alt="python" height="50"/>                     <img src="javascript.png" alt="javascript" height="50"/>                     <img src="java.png" alt="java" height="50"/>
 
+My github stats: 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Coderz75&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
+
 I have been coding since I was 8 :)
 
 I'm on replit, scratch, and discord!
