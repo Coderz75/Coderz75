@@ -18,6 +18,8 @@ My github stats:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Coderz75&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderz75&layout=compact)](https://github.com/Coderz75/github-readme-stats)
+
 I have been coding since I was 8 :)
 
 I'm on replit, scratch, and discord!
