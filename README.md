@@ -23,7 +23,7 @@ My github stats:
 
 I have been coding since I was 8 :)
 
-I'm on replit, scratch, and discord!
+I'm on replit, and discord!
 
 Replit Acounts:
 
@@ -33,8 +33,6 @@ Replit Acounts:
   
    https://replit.com/@nuaymsyed1 - school
   
-Scratch: https://scratch.mit.edu/users/cwknuaym16920/
-
 Discord: Nuaym #5039
 
 Email: scienceboy75@gmail.com
