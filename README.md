@@ -33,7 +33,7 @@ Replit Acounts:
   
    https://replit.com/@nuaymsyed1 - school
   
-Discord: Nuaym #5039
+Discord: pulsar|not|black_hole#5039
 
 Email: scienceboy75@gmail.com
 
