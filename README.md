@@ -6,13 +6,11 @@ HELLO!
 
 I'm Coderz75
 
-Despite the plural z, I am one person
+Website: [https://coderz75.github.io/](https://coderz75.github.io/)
 
 I go by the pronouns: He/Him
 
-I currently know, c++, c#, Html, scratch, python, javascript (my first programming language), java - in the order of how much I know about them
-
-<img src="cpp.jpg" alt="cpp" height="50"/>                     <img src="c-s.jpeg" alt="c#" height="50"/>                     <img src="html.png" alt="html" height="50"/>                     <img src="scratch.jpg" alt="Scratch" height="50"/>                     <img src="Python.png" alt="python" height="50"/>                     <img src="javascript.png" alt="javascript" height="50"/>                     <img src="java.png" alt="java" height="50"/>
+I have been coding for quite a while now.
 
 My github stats: 
 
@@ -21,7 +19,7 @@ My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderz75&layout=compact&theme=radical)
 
 
-I have been coding since I was 8 :)
+
 
 I'm on replit, and discord!
 
