@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-      "If you wake up misrable in the morning, be thankfull that you have one" - somebody (with a few edits by Coderz75)
-
-HELLO!
-
 I'm Coderz75
 
 Website: [https://coderz75.github.io/](https://coderz75.github.io/)
@@ -19,10 +15,6 @@ My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderz75&layout=compact&theme=radical)
 
 
-
-
-I'm on replit, and discord!
-
 Replit Acounts:
 
    https://replit.com/@nsyed_nha/ - main
@@ -31,13 +23,9 @@ Replit Acounts:
   
    https://replit.com/@nuaymsyed1 - school
   
-Discord: pulsar|not|black_hole#5039
-
-Email: scienceboy75@gmail.com
 
 ### Featured projects:
 
-[![Slackerz](https://github-readme-stats.vercel.app/api/pin/?username=Coderz75&repo=Slackerz-Compiler&theme=radical)](https://github.com/Coderz75/Slackerz-Compiler)
-[![Note-Taker](https://github-readme-stats.vercel.app/api/pin/?username=Coderz75&repo=Note-Taker&theme=radical)](https://github.com/Coderz75/Note-Taker)
+[![Immune Quest](https://github-readme-stats.vercel.app/api/pin/?username=Coderz75&repo=IPC-Winter-Hackathon&theme=radical)](https://github.com/Coderz75/IPC-Winter-Hackathon)
 
 Great! That's all folks
